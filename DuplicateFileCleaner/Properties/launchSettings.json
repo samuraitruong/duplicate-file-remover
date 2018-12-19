@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuplicateFileCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "-i samples -o backup -e *.mkv -t true"
+    }
+  }
+}

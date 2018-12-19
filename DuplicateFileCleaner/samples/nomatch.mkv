@@ -1,0 +1,10 @@
+﻿ausing System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DuplicateFileCleaner.samples
+{
+    class Class1
+    {
+    }
+}
